@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog ACS!
+title: Welcome to my blog!
 ---
